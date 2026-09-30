@@ -1,0 +1,22 @@
+# Documentation folder
+Docs/
+docs/
+
+# README
+README.md
+readme.md
+
+# Environment and Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# OS specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
